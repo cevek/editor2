@@ -5,14 +5,12 @@
     "noImplicitAny": true,
     "outDir": "built",
     "rootDir": ".",
-    "experimentalAsyncFunctions": true,
     "sourceMap": false
   },
   "exclude": [
     "node_modules"
   ],
   "files": [
-    "./typings/lib/require.d.ts",
     "./index.ts"
   ]
 }
