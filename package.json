@@ -1,0 +1,17 @@
+{
+  "name": "editor2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cevek <x.cevek@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "koa": "^1.1.2",
+    "koa-router": "^5.2.3",
+    "mysql2": "^0.15.8"
+  }
+}
